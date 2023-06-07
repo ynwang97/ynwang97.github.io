@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yuning Wang"
 description              : &description "personal description"
